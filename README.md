@@ -16,48 +16,37 @@ Combined emphasis with **asterisks or *underscores***.
 
 Strikethrough uses two tildes. ~~Scratch this~~.
 ***
-> 1.First ordered list item
-
-> 2.Another item
+> 1. First ordered list item  
+> 2. Another item
 >>* Unorderede sub-list
-
->3.Actual numbers don't matter, just that it's a number
->>1.Ordered sub-list
->>2.2nd
-
+>
+>3. Actual numbers don't matter, just that it's a number
+>>1. Ordered sub-list  
+>>2. 2nd
+>
 >4.And another item.
 >>>* note 1
 >>>* note 2
 >>>* note 3
-
-> 新北市
->>板橋區
-
->>中和區
-
-> 桃園縣
->>大溪鎮
-
 ***
+
 - [ ] todo list
 - [x] 2nd things
 ***
 
-python code
----
+##### python code
 ```python
 s= "Python Syntax hightlight"
 print(s)
 ```
 ***
 
-javascript code
----
+##### javascript code
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
-
+***
 
 Colons can be used to align columns.
 | Tables       | Are            | Cool  |
@@ -71,3 +60,4 @@ There must be at least 3 dashes separating each header cell. The outer pipes (|)
 | :----------- | :---------| :-----|
 | *Still*      | `renders`  | **nicely** |
 | 1            | 2         | 3     |
+
