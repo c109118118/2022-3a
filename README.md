@@ -7,14 +7,24 @@
 😄
 
 ![nkust.png](nkust.png "nkust")
+***
 - [ ] todo list
-- [x] done
+- [x] 2nd things
+***
 
-# python code
+python code
 ---
 ```python
 s="Python Syntax Hightlight"
 print(s)
+```
+***
+
+javascript code
+---
+```javascript
+var s = "JavaScript syntax highlighting"
+alert(s);
 ```
 
 Emphasis, aka italics, with asterisks or underscores.
@@ -39,14 +49,15 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 >>>note 2
 >>>note 3
 
-# Colons can be used to align columns.
+Colons can be used to align columns.
 | Tables       | Are            | Cool  |
 | :----------- |:--------------:| -----:|
 | col 3 is     |right-aligned   | $1600 |
 | col 2 is     |centered        |   $21 |
 | zebra stripes|are neat        |   $ 1 |
-#There must be at least 3 dashes separating each header cell. The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
+
+There must be at least 3 dashes separating each header cell. The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
 | Markdown     | Less      | Pretty|
-| :----------- |:---------:| -----:|
-| *Still*      |renders    | nicely |
-| col 2 is     |centered        |   $21 |
+| :----------- | :---------| :-----|
+| *Still*      | `renders`  | **nicely** |
+| 1            | 2         | 3     |
