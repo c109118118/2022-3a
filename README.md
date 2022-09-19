@@ -10,7 +10,7 @@
 - [ ] todo list
 - [x] done
 
-#python code
+# python code
 ---
 ```python
 s="Python Syntax Hightlight"
